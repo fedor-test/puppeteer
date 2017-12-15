@@ -1,7 +1,6 @@
 environement:
   DISPLAY: :99.0
 
-
 node7_task:
   container:
     image: node:7.6.0
